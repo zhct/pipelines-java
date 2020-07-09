@@ -47,4 +47,7 @@ steps:
     artifactName: drop2
 
 
-    123
+variables:
+- name: myReadOnlyVar
+  value: myValue
+  readonly: true

@@ -48,6 +48,6 @@ steps:
 
 
 variables:
-- name: myReadOnlyVar
+- name: myReadOnlyVarhhh
   value: myValue
   readonly: true
